@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pasti Movie App</string>
+    <string name="action_see_more">See More</string>
+    <string name="label_cast">Cast</string>
+    <string name="menu_search">Search</string>
+    <string name="message_data_is_empty">Data is empty</string>
+    <string name="desc_logo_app">Logo App</string>
+    <string name="title_videoplayer">videoplayer</string>
+
+    <string name="search_movie">Search movie here</string>
+    <string name="discover_movie">Discover Movie</string>
+    <string name="information">Information</string>
+    <string name="review">Review</string>
+    <string name="alertReviewOpen">the reviews here maybe some are spoilers, if you don\'t mind please press the button next to it to open the review</string>
+    <string name="see_review">Open Review</string>
+    <string name="review_movie">Review Movie</string>
+    <string name="watch_trailer">Watch Trailer</string>
+    <string name="title_search">search</string>
+    <string name="video_trailer">Video Trailer</string>
+</resources>

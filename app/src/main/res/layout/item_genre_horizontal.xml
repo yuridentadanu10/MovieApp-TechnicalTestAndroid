@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rlGenre"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:layout_marginStart="@dimen/item_dimen_5dp"
+    android:layout_marginTop="@dimen/item_dimen_10dp"
+    android:background="@drawable/bg_unselected_item">
+
+    <TextView
+        android:id="@+id/tvGenre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/item_selected_unselected"
+        android:fontFamily="@font/nunito_sans_semibold"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        tools:text="Action" />
+
+</RelativeLayout>
