@@ -2,7 +2,6 @@ package com.pastitechnicaltest.pastimovieapp.core.di
 
 import com.pastitechnicaltest.pastimovieapp.core.BuildConfig
 import com.pastitechnicaltest.pastimovieapp.core.data.movie.remote.MovieService
-import okhttp3.CertificatePinner
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import org.koin.dsl.module
