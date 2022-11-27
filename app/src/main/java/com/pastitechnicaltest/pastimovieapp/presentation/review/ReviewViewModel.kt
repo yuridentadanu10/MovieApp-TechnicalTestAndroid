@@ -16,10 +16,6 @@ class ReviewViewModel(private val movieUseCase: MovieUseCase) : ViewModel() {
         page += 1
     }
 
-    fun resetPage() {
-        page = 1
-    }
-
     fun getReviewMovie(movieId: Int, page: Int): LiveData<ApiResponse<PaginationItem<Review>>> {
         return movieUseCase.getReviewMovie(movieId, page).asLiveData()
     }
