@@ -7,7 +7,6 @@ dependencies {
         shimmerVersion = "0.5.0"
         circleImageViewVersion = "3.1.0"
         timberVersion = "5.0.1"
-        leakCanaryVersion = "2.9.1"
         youtubePlayerVersion = "11.1.0"
         lifecycleVersion = "2.5.0-rc01"
         activityKtxVersion = "1.4.0"
@@ -37,9 +36,6 @@ dependencies {
 
     // Timber
     implementation("com.jakewharton.timber:timber:$timberVersion")
-
-    // Leak canary
-    debugImplementation("com.squareup.leakcanary:leakcanary-android:$leakCanaryVersion")
 
     // Coroutines
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:$courotineVersion")
