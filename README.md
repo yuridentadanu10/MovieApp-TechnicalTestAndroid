@@ -14,4 +14,4 @@
 - Search Movie and provide Empty State when movie not available
 
 ## APK Download 
-- [Download Synapsis App](https://drive.google.com/file/d/1Q53ESsbRMM3i3ivkvWo8WXUZ61l0WLbC/view?usp=sharing)
+- [Download Movie App](https://drive.google.com/file/d/1H9McDScDb0UJjjmrpfJ0O4yKAm4BO7IZ/view?usp=sharing)
